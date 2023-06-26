@@ -1,5 +1,4 @@
-<h1 style="text-align: center;"> Hi, I'm Shreya! 👋 :dizzy: </h1>
-
+__<h2 align="center">Hi, I'm Shreya! 👋 :dizzy:</h1>__
 
 :books: I'm currently a senior at MIT studying computer science and minoring in math and German. I love creating and building new things 🛠️, exploring the world 🔭, and learning more about using tech for social good 🌱! 
 
