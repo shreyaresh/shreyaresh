@@ -7,7 +7,7 @@ __<h2 align="center">Hi, I'm Shreya! 👋 :dizzy:</h2>__
 :speech_balloon: Got a question, a potential project idea, a question, or anything about art, tech, traveling, or anything else? Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/shreyareshamwala) or [email](mailto:shreyar@mit.edu)!
 
 <hr>
-<h2 align="center">Languages :term</h2>
+<h2 align="center">Languages </h2>
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=black&color=black)](https://github.com/shreyaresh)
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=cc0000&labelColor=black&color=black)](https://github.com/shreyaresh)
