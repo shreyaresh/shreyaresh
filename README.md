@@ -6,7 +6,8 @@ __<h2 align="center">Hi, I'm Shreya! 👋 :dizzy:</h2>__
 
 :speech_balloon: Got a question, a potential project idea, a question, or anything about art, tech, traveling, or anything else? Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/shreyareshamwala) or [email](mailto:shreyar@mit.edu)!
 
-### Languages
+<hr>
+<h2 align="center">Languages :term</h2>
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=black&color=black)](https://github.com/shreyaresh)
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=cc0000&labelColor=black&color=black)](https://github.com/shreyaresh)
@@ -17,7 +18,9 @@ __<h2 align="center">Hi, I'm Shreya! 👋 :dizzy:</h2>__
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=dc5732&labelColor=black&color=black)](https://github.com/shreyaresh)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=2376b4&labelColor=black&color=black)](https://github.com/shreyaresh)
 
-### ML/DL
+<hr>
+<h2 align="center">ML/DL Packages</h2>
+
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&labelColor=black&color=black)](https://github.com/shreyaresh)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=007DA8&labelColor=black&color=black)](https://github.com/shreyaresh)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=5B42BE&labelColor=black&color=black)](https://github.com/shreyaresh)
