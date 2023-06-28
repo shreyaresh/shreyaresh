@@ -1,3 +1,5 @@
+<hr>
+
 __<h2 align="center">Hi, I'm Shreya! 👋 :dizzy:</h2>__
 
 :books: I'm currently a senior at MIT studying computer science and minoring in math and German. I love creating and building new things 🛠️, exploring the world 🔭, and learning more about using tech for social good 🌱! 
@@ -8,7 +10,8 @@ __<h2 align="center">Hi, I'm Shreya! 👋 :dizzy:</h2>__
 
 <hr>
 <h2 align="center">Languages </h2>
-
+<span align="center">
+  
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=black&color=black)](https://github.com/shreyaresh)
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=cc0000&labelColor=black&color=black)](https://github.com/shreyaresh)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=3178c6&labelColor=black&color=black)](https://github.com/shreyaresh)
@@ -17,18 +20,8 @@ __<h2 align="center">Hi, I'm Shreya! 👋 :dizzy:</h2>__
 [![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=9558B2&labelColor=black&color=black)](https://github.com/shreyaresh)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=dc5732&labelColor=black&color=black)](https://github.com/shreyaresh)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=2376b4&labelColor=black&color=black)](https://github.com/shreyaresh)
-
+</span>
 <hr>
-<h2 align="center">ML/DL Packages</h2>
-
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&labelColor=black&color=black)](https://github.com/shreyaresh)
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=007DA8&labelColor=black&color=black)](https://github.com/shreyaresh)
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=5B42BE&labelColor=black&color=black)](https://github.com/shreyaresh)
-[![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=3f4f75&labelColor=black&color=black)](https://github.com/shreyaresh)
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=ee4c2c&labelColor=black&color=black)](https://github.com/shreyaresh)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=f7931e&labelColor=black&color=black)](https://github.com/shreyaresh)
-[![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=0C55A5&labelColor=black&color=black)](https://github.com/shreyaresh)
-
 <!--
 **shreyaresh/shreyaresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
