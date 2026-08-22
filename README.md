@@ -2,7 +2,7 @@
 
 __<h2 align="center">Hi, I'm Shreya! 👋 :dizzy:</h2>__
 
-:books: I'm a recent graduate from MIT, having double majored in computer science and engineering as well as mathematics. I love creating and building new things 🛠️, exploring the world 🔭, and learning more about using tech for social good 🌱! 
+:books: I'm an MIT graduate that double majored in computer science and engineering as well as mathematics. I love creating and building new things 🛠️, exploring the world 🔭, and learning more about using tech for social good 🌱! 
 
 :zap: Right now, I am a software engineer at Braze.
 
